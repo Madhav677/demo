@@ -1,0 +1,98 @@
+:root {
+  --vivekkrishnancomdawn-pink: rgba(244, 237, 231, 1);
+  --vivekkrishnancomjon: rgba(63, 32, 33, 1);
+  --vivekkrishnancomwhite: rgba(255, 255, 255, 1);
+  --vivekkrishnancomblack-15: rgba(0, 0, 0, 0.15);
+  --vivekkrishnancomgallery: rgba(244, 237, 231, 1);
+  --vivekkrishnancommine-shaft: rgba(40, 40, 40, 1);
+  --vivekkrishnancomblack: rgba(0, 0, 0, 1);
+  --vivekkrishnancomshark: rgba(34, 34, 35, 1);
+  --vivekkrishnancomstark-white: rgba(231, 216, 196, 1);
+  --vivekkrishnancomtallow: rgba(166, 159, 136, 1);
+  --vivekkrishnancomwhite-70: rgba(255, 255, 255, 0.7);
+  --vivekkrishnancomtallow-80: rgba(166, 159, 136, 0.8);
+  --vivekkrishnan-com-comfortaa-bold-upper-font-family: "Comfortaa", Helvetica;
+  --vivekkrishnan-com-comfortaa-bold-upper-font-weight: 700;
+  --vivekkrishnan-com-comfortaa-bold-upper-font-size: 11px;
+  --vivekkrishnan-com-comfortaa-bold-upper-letter-spacing: 2.200000047683716px;
+  --vivekkrishnan-com-comfortaa-bold-upper-line-height: 18.700000762939453px;
+  --vivekkrishnan-com-comfortaa-bold-upper-font-style: normal;
+  --vivekkrishnan-com-semantic-heading-2-font-family: "Inter", Helvetica;
+  --vivekkrishnan-com-semantic-heading-2-font-weight: 400;
+  --vivekkrishnan-com-semantic-heading-2-font-size: 40.078125px;
+  --vivekkrishnan-com-semantic-heading-2-letter-spacing: 0px;
+  --vivekkrishnan-com-semantic-heading-2-line-height: 49.5px;
+  --vivekkrishnan-com-semantic-heading-2-font-style: normal;
+  --vivekkrishnan-com-semantic-heading-3-upper-font-family: "Comfortaa",
+    Helvetica;
+  --vivekkrishnan-com-semantic-heading-3-upper-font-weight: 400;
+  --vivekkrishnan-com-semantic-heading-3-upper-font-size: 1px;
+  --vivekkrishnan-com-semantic-heading-3-upper-letter-spacing: 0.20000000298023224px;
+  --vivekkrishnan-com-semantic-heading-3-upper-line-height: 1.7000000476837158px;
+  --vivekkrishnan-com-semantic-heading-3-upper-font-style: normal;
+  --vivekkrishnan-com-comfortaa-regular-font-family: "Comfortaa", Helvetica;
+  --vivekkrishnan-com-comfortaa-regular-font-weight: 400;
+  --vivekkrishnan-com-comfortaa-regular-font-size: 10px;
+  --vivekkrishnan-com-comfortaa-regular-letter-spacing: 1px;
+  --vivekkrishnan-com-comfortaa-regular-line-height: 16px;
+  --vivekkrishnan-com-comfortaa-regular-font-style: normal;
+  --vivekkrishnan-com-semantic-heading-3-font-family: "Inter", Helvetica;
+  --vivekkrishnan-com-semantic-heading-3-font-weight: 400;
+  --vivekkrishnan-com-semantic-heading-3-font-size: 19.84375px;
+  --vivekkrishnan-com-semantic-heading-3-letter-spacing: 0px;
+  --vivekkrishnan-com-semantic-heading-3-line-height: 34px;
+  --vivekkrishnan-com-semantic-heading-3-font-style: normal;
+  --vivekkrishnan-com-roboto-medium-font-family: "Roboto", Helvetica;
+  --vivekkrishnan-com-roboto-medium-font-weight: 500;
+  --vivekkrishnan-com-roboto-medium-font-size: 14px;
+  --vivekkrishnan-com-roboto-medium-letter-spacing: 0px;
+  --vivekkrishnan-com-roboto-medium-line-height: 16.5px;
+  --vivekkrishnan-com-roboto-medium-font-style: normal;
+  --vivekkrishnan-com-roboto-regular-font-family: "Roboto", Helvetica;
+  --vivekkrishnan-com-roboto-regular-font-weight: 400;
+  --vivekkrishnan-com-roboto-regular-font-size: 12px;
+  --vivekkrishnan-com-roboto-regular-letter-spacing: 0px;
+  --vivekkrishnan-com-roboto-regular-line-height: 16.5px;
+  --vivekkrishnan-com-roboto-regular-font-style: normal;
+  --vivekkrishnan-com-roboto-regular-underline-font-family: "Roboto", Helvetica;
+  --vivekkrishnan-com-roboto-regular-underline-font-weight: 400;
+  --vivekkrishnan-com-roboto-regular-underline-font-size: 12px;
+  --vivekkrishnan-com-roboto-regular-underline-letter-spacing: 0px;
+  --vivekkrishnan-com-roboto-regular-underline-line-height: 16.5px;
+  --vivekkrishnan-com-roboto-regular-underline-font-style: normal;
+  --vivekkrishnan-com-semantic-heading-2-upper-font-family: "Comfortaa",
+    Helvetica;
+  --vivekkrishnan-com-semantic-heading-2-upper-font-weight: 400;
+  --vivekkrishnan-com-semantic-heading-2-upper-font-size: 11px;
+  --vivekkrishnan-com-semantic-heading-2-upper-letter-spacing: 2.200000047683716px;
+  --vivekkrishnan-com-semantic-heading-2-upper-line-height: 16.5px;
+  --vivekkrishnan-com-semantic-heading-2-upper-font-style: normal;
+  --vivekkrishnan-com-comfortaa-regular-upper-font-family: "Comfortaa",
+    Helvetica;
+  --vivekkrishnan-com-comfortaa-regular-upper-font-weight: 400;
+  --vivekkrishnan-com-comfortaa-regular-upper-font-size: 10px;
+  --vivekkrishnan-com-comfortaa-regular-upper-letter-spacing: 2px;
+  --vivekkrishnan-com-comfortaa-regular-upper-line-height: 17px;
+  --vivekkrishnan-com-comfortaa-regular-upper-font-style: normal;
+  --vivekkrishnan-com-semantic-heading-2-title-font-family: "Comfortaa",
+    Helvetica;
+  --vivekkrishnan-com-semantic-heading-2-title-font-weight: 400;
+  --vivekkrishnan-com-semantic-heading-2-title-font-size: 11px;
+  --vivekkrishnan-com-semantic-heading-2-title-letter-spacing: 1.100000023841858px;
+  --vivekkrishnan-com-semantic-heading-2-title-line-height: 22px;
+  --vivekkrishnan-com-semantic-heading-2-title-font-style: normal;
+  --vivekkrishnan-com-comfortaa-regular-underline-font-family: "Comfortaa",
+    Helvetica;
+  --vivekkrishnan-com-comfortaa-regular-underline-font-weight: 400;
+  --vivekkrishnan-com-comfortaa-regular-underline-font-size: 10px;
+  --vivekkrishnan-com-comfortaa-regular-underline-letter-spacing: 1px;
+  --vivekkrishnan-com-comfortaa-regular-underline-line-height: 16px;
+  --vivekkrishnan-com-comfortaa-regular-underline-font-style: normal;
+  --vivekkrishnan-com-semantic-heading-1-upper-font-family: "Comfortaa",
+    Helvetica;
+  --vivekkrishnan-com-semantic-heading-1-upper-font-weight: 400;
+  --vivekkrishnan-com-semantic-heading-1-upper-font-size: 10px;
+  --vivekkrishnan-com-semantic-heading-1-upper-letter-spacing: 2px;
+  --vivekkrishnan-com-semantic-heading-1-upper-line-height: 17px;
+  --vivekkrishnan-com-semantic-heading-1-upper-font-style: normal;
+}

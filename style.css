@@ -1,0 +1,2683 @@
+.element-light {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  position: relative;
+  background-color: var(--vivekkrishnancomdawn-pink);
+}
+
+.element-light .div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.element-light .container {
+  position: relative;
+  align-self: stretch;
+  min-width: 320px;
+  width: 100%;
+  height: 6522px;
+}
+
+.element-light .container-2 {
+  position: absolute;
+  width: 1920px;
+  height: 2px;
+  top: 1270px;
+  left: 0;
+  background-color: var(--vivekkrishnancomdawn-pink);
+}
+
+.element-light .background-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 800px;
+  top: 1272px;
+  left: 0;
+}
+
+.element-light .background {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 800px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: var(--vivekkrishnancomdawn-pink);
+}
+
+.element-light .container-3 {
+  position: relative;
+  flex: 1;
+  width: 1200px;
+  max-height: 80000px;
+  flex-grow: 1;
+}
+
+.element-light .image {
+  position: absolute;
+  width: 275px;
+  height: 419px;
+  top: 79px;
+  left: -360px;
+}
+
+.element-light .link {
+  position: absolute;
+  width: 150px;
+  height: 21px;
+  top: 590px;
+  left: 525px;
+}
+
+.element-light .nav {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  align-items: center;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .text-wrapper {
+  font-weight: var(--vivekkrishnan-com-comfortaa-bold-upper-font-weight);
+  color: var(--vivekkrishnancomjon);
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-comfortaa-bold-upper-font-family);
+  font-size: var(--vivekkrishnan-com-comfortaa-bold-upper-font-size);
+  text-align: center;
+  letter-spacing: var(--vivekkrishnan-com-comfortaa-bold-upper-letter-spacing);
+  line-height: var(--vivekkrishnan-com-comfortaa-bold-upper-line-height);
+  font-style: var(--vivekkrishnan-com-comfortaa-bold-upper-font-style);
+}
+
+.element-light .overlap {
+  position: absolute;
+  width: 632px;
+  height: 152px;
+  top: 231px;
+  left: 284px;
+}
+
+.element-light .heading {
+  width: 632px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.element-light .capturing-real {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomjon);
+  font-size: 39.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 49.5px;
+}
+
+.element-light .div-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 149px;
+  height: 53px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 99px;
+  left: 436px;
+}
+
+.element-light .background-2 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-color: var(--vivekkrishnancomdawn-pink);
+}
+
+.element-light .heading-2 {
+  display: flex;
+  flex-direction: column;
+  width: 160px;
+  align-items: center;
+  position: absolute;
+  top: 104px;
+  left: 431px;
+}
+
+.element-light .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomjon);
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 44px;
+  white-space: nowrap;
+}
+
+.element-light .experience-real-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 524px;
+  align-items: center;
+  position: absolute;
+  top: 188px;
+  left: 338px;
+}
+
+.element-light .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomjon);
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 2.20px;
+  line-height: 18.7px;
+  white-space: nowrap;
+}
+
+.element-light .paragraph {
+  display: flex;
+  flex-direction: column;
+  width: 397px;
+  align-items: center;
+  gap: 22px;
+  padding: 0px 0px 5.5px;
+  position: absolute;
+  top: 421px;
+  left: 402px;
+}
+
+.element-light .p {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomjon);
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 1.10px;
+  line-height: 22px;
+}
+
+.element-light .our-candid {
+  position: relative;
+  width: fit-content;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomjon);
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 1.10px;
+  line-height: 22px;
+}
+
+.element-light .body {
+  width: 236px;
+  top: 302px;
+  left: 1324px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  background-color: var(--vivekkrishnancomblack);
+}
+
+.element-light .youtube-video-player {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 419px;
+  background-color: var(--vivekkrishnancomblack);
+}
+
+.element-light .overlap-group {
+  position: relative;
+  width: 236px;
+  height: 419px;
+}
+
+.element-light .img {
+  position: absolute;
+  width: 236px;
+  height: 99px;
+  top: 0;
+  left: 0;
+}
+
+.element-light .component {
+  display: flex;
+  flex-direction: column;
+  width: 85px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 11px 0px;
+  position: absolute;
+  top: 372px;
+  left: 135px;
+  opacity: 0.9;
+}
+
+.element-light .component-2 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.element-light .alert {
+  display: flex;
+  flex-direction: column;
+  width: 236px;
+  height: 419px;
+  align-items: flex-start;
+  padding: 0px 17.7px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--vivekkrishnancommine-shaft);
+}
+
+.element-light .container-wrapper {
+  display: flex;
+  max-width: 200.6px;
+  align-items: center;
+  justify-content: center;
+  padding: 182.5px 0px 0px 16px;
+  position: relative;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.element-light .container-4 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.element-light .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 500;
+  color: var(--vivekkrishnancomgallery);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  white-space: nowrap;
+}
+
+.element-light .container-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 3px 0px 3.5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.element-light .this-helps-protect {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomgallery);
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  white-space: nowrap;
+}
+
+.element-light .component-3 {
+  position: relative;
+  width: 178.77px;
+  height: 27.5px;
+  margin-top: -14px;
+}
+
+.element-light .text-wrapper-5 {
+  position: absolute;
+  width: 25px;
+  height: 17px;
+  top: -4px;
+  left: 154px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomgallery);
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.element-light .text-wrapper-6 {
+  position: absolute;
+  width: 23px;
+  height: 17px;
+  top: 12px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomgallery);
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.element-light .component-wrapper {
+  width: 24px;
+  height: 24px;
+  top: 387px;
+  left: 204px;
+  opacity: 0.7;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .container-6 {
+  display: flex;
+  width: 212px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  position: absolute;
+  top: 0;
+  left: 12px;
+}
+
+.element-light .container-7 {
+  display: flex;
+  flex-direction: column;
+  max-width: 214px;
+  align-items: flex-start;
+  padding: 21px 0px 0px 50px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.element-light .text {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  text-shadow: 0px 0px 2px #00000080;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomgallery);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  white-space: nowrap;
+}
+
+.element-light .component-4 {
+  display: inline-flex;
+  min-width: 48px;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 6px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  opacity: 0.9;
+}
+
+.element-light .img-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 36px;
+  height: 36px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+}
+
+.element-light .link-photo-image-of-wrapper {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  align-items: flex-start;
+  padding: 5px;
+  position: absolute;
+  top: 7px;
+  left: -5px;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.element-light .link-photo-image-of {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+
+.element-light .container-8 {
+  position: absolute;
+  width: 1920px;
+  height: 600px;
+  top: 2072px;
+  left: 0;
+}
+
+.element-light .background-3 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 600px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: var(--vivekkrishnancomstark-white);
+}
+
+.element-light .overlap-group-2 {
+  position: absolute;
+  width: 960px;
+  height: 600px;
+  top: 0;
+  left: 600px;
+}
+
+.element-light .vertical-divider-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1px;
+  height: 161px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 419px;
+  left: 778px;
+  transform: rotate(90deg);
+}
+
+.element-light .vertical-divider {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-color: var(--vivekkrishnancomshark);
+}
+
+.element-light .nav-wrapper {
+  position: absolute;
+  width: 199px;
+  height: 24px;
+  top: 446px;
+  left: 660px;
+}
+
+.element-light .visit-the-galleries-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 199px;
+  align-items: flex-end;
+  padding: 0px 0px 6px;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .visit-the-galleries {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomshark);
+  font-size: 11px;
+  text-align: right;
+  letter-spacing: 2.20px;
+  line-height: 18.7px;
+  white-space: nowrap;
+}
+
+.element-light .heading-wrapper {
+  position: absolute;
+  width: 155px;
+  height: 48px;
+  top: 393px;
+  left: 704px;
+}
+
+.element-light .heading-3 {
+  display: flex;
+  flex-direction: column;
+  width: 155px;
+  align-items: flex-end;
+  position: relative;
+}
+
+.element-light .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomshark);
+  font-size: 45px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  white-space: nowrap;
+}
+
+.element-light .component-5 {
+  position: absolute;
+  width: 960px;
+  height: 600px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-16.png);
+  background-size: 100% 100%;
+}
+
+.element-light .overlap-2 {
+  position: absolute;
+  width: 960px;
+  height: 600px;
+  top: 0;
+  left: -360px;
+}
+
+.element-light .container-9 {
+  display: flex;
+  flex-direction: column;
+  width: 1px;
+  height: 161px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 420px;
+  left: 181px;
+  transform: rotate(90deg);
+}
+
+.element-light .nav-visit-the-wrapper {
+  position: absolute;
+  width: 228px;
+  height: 26px;
+  top: 447px;
+  left: 100px;
+}
+
+.element-light .nav-visit-the {
+  position: absolute;
+  width: 164px;
+  height: 13px;
+  top: 1px;
+  left: 0;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomshark);
+  font-size: 11px;
+  letter-spacing: 2.20px;
+  line-height: 18.7px;
+  white-space: nowrap;
+}
+
+.element-light .heading-IMAGES-wrapper {
+  position: absolute;
+  width: 177px;
+  height: 48px;
+  top: 394px;
+  left: 100px;
+}
+
+.element-light .heading-IMAGES {
+  position: absolute;
+  width: 170px;
+  height: 45px;
+  top: 1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomshark);
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  white-space: nowrap;
+}
+
+.element-light .component-6 {
+  width: 960px;
+  height: 600px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-15.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .container-10 {
+  position: absolute;
+  width: 1920px;
+  height: 200px;
+  top: 2672px;
+  left: 0;
+}
+
+.element-light .background-4 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 200px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: var(--vivekkrishnancomstark-white);
+}
+
+.element-light .component-7 {
+  width: 79px;
+  height: 78px;
+  top: 62px;
+  left: 272px;
+  opacity: 0.7;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-17.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .component-8 {
+  width: 104px;
+  height: 105px;
+  top: 62px;
+  left: 651px;
+  opacity: 0.7;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-18.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .component-9 {
+  width: 91px;
+  height: 91px;
+  top: 55px;
+  left: 879px;
+  opacity: 0.8;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-19.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .component-10 {
+  width: 90px;
+  height: 56px;
+  top: 73px;
+  left: 462px;
+  opacity: 0.9;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-20.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .component-11 {
+  width: 68px;
+  height: 68px;
+  top: 68px;
+  left: 1082px;
+  opacity: 0.7;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-21.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .component-12 {
+  position: absolute;
+  width: 1821px;
+  height: 1px;
+  top: 189px;
+  left: -311px;
+}
+
+.element-light .component-13 {
+  width: 110px;
+  height: 53px;
+  top: 75px;
+  left: 50px;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-22.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .overlap-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 950px;
+  top: 2872px;
+  left: 0;
+}
+
+.element-light .overlap-3 {
+  position: relative;
+  height: 950px;
+}
+
+.element-light .background-5 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 950px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--vivekkrishnancomstark-white);
+}
+
+.element-light .container-11 {
+  display: flex;
+  flex-direction: column;
+  width: 503px;
+  height: 298px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  top: 65px;
+  left: 348px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.element-light .background-6 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-color: var(--vivekkrishnancomdawn-pink);
+  border-radius: 5px;
+}
+
+.element-light .container-12 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 950px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.element-light .overlap-group-3 {
+  position: absolute;
+  width: 138px;
+  height: 111px;
+  top: 292px;
+  left: 531px;
+}
+
+.element-light .container-13 {
+  display: flex;
+  flex-direction: column;
+  width: 88px;
+  height: 111px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 25px;
+  border-radius: 49.75px;
+  overflow: hidden;
+}
+
+.element-light .background-7 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-color: var(--vivekkrishnancomdawn-pink);
+  border-radius: 49.75px;
+}
+
+.element-light .image-2 {
+  position: absolute;
+  width: 138px;
+  height: 101px;
+  top: 5px;
+  left: 0;
+}
+
+.element-light .component-14 {
+  width: 39px;
+  height: 26px;
+  top: 834px;
+  left: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .link-2 {
+  display: flex;
+  flex-direction: column;
+  width: 39px;
+  height: 26px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 834px;
+  left: 561px;
+  transform: rotate(180deg);
+}
+
+.element-light .component-15 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  transform: rotate(-180deg);
+}
+
+.element-light .container-14 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 950px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-bottom: -1.00px;
+}
+
+.element-light .ADITI-CHRIS-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 179px;
+  align-items: center;
+  position: absolute;
+  top: 784px;
+  left: 511px;
+}
+
+.element-light .vivek-krishnan-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 532px;
+  align-items: center;
+  position: absolute;
+  top: 641px;
+  left: 334px;
+}
+
+.element-light .THEY-WERE-a-DREAM-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 686px;
+  align-items: center;
+  position: absolute;
+  top: 444px;
+  left: 258px;
+}
+
+.element-light .THEY-WERE-a-DREAM {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomjon);
+  font-size: 53.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 59.4px;
+}
+
+.element-light .image-3 {
+  position: absolute;
+  width: 467px;
+  height: 264px;
+  top: 83px;
+  left: 366px;
+}
+
+.element-light .container-15 {
+  position: absolute;
+  width: 1920px;
+  height: 700px;
+  top: 3822px;
+  left: 0;
+}
+
+.element-light .background-8 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 700px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: var(--vivekkrishnancomdawn-pink);
+}
+
+.element-light .wedding-film-for-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 700px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.element-light .wedding-film-for {
+  position: relative;
+  height: 1080px;
+  top: 184px;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/wedding-film-for-homepage-mp4.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element-light .heading-4 {
+  position: absolute;
+  width: 295px;
+  height: 54px;
+  top: 39px;
+  left: -173px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: 49.1px;
+  letter-spacing: 0;
+  line-height: 54px;
+  white-space: nowrap;
+}
+
+.element-light .unfiltered-memories-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 184px;
+  align-items: center;
+  position: absolute;
+  top: 60px;
+  left: 1336px;
+}
+
+.element-light .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 2.20px;
+  line-height: 18.7px;
+  white-space: nowrap;
+}
+
+.element-light .overlap-group-4 {
+  position: absolute;
+  width: 153px;
+  height: 34px;
+  top: 626px;
+  left: 1369px;
+}
+
+.element-light .border-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  height: 34px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 1px;
+}
+
+.element-light .border {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  border: 1px solid;
+  border-color: #f4ede7;
+}
+
+.element-light .link-3 {
+  position: absolute;
+  width: 153px;
+  height: 26px;
+  top: 8px;
+  left: 0;
+}
+
+.element-light .nav-2 {
+  display: flex;
+  flex-direction: column;
+  width: 153px;
+  align-items: center;
+  padding: 0px 0px 8px;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .text-wrapper-9 {
+  color: var(--vivekkrishnancomdawn-pink);
+  white-space: nowrap;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-comfortaa-bold-upper-font-family);
+  font-weight: var(--vivekkrishnan-com-comfortaa-bold-upper-font-weight);
+  font-size: var(--vivekkrishnan-com-comfortaa-bold-upper-font-size);
+  text-align: center;
+  letter-spacing: var(--vivekkrishnan-com-comfortaa-bold-upper-letter-spacing);
+  line-height: var(--vivekkrishnan-com-comfortaa-bold-upper-line-height);
+  font-style: var(--vivekkrishnan-com-comfortaa-bold-upper-font-style);
+}
+
+.element-light .heading-5 {
+  display: flex;
+  flex-direction: column;
+  width: 143px;
+  align-items: center;
+  position: absolute;
+  top: 50px;
+  left: -320px;
+}
+
+.element-light .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 44px;
+  white-space: nowrap;
+}
+
+.element-light .container-16 {
+  position: absolute;
+  width: 1920px;
+  height: 850px;
+  top: 4522px;
+  left: 0;
+}
+
+.element-light .background-9 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 850px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: var(--vivekkrishnancomdawn-pink);
+}
+
+.element-light .overlap-4 {
+  position: absolute;
+  width: 1210px;
+  height: 543px;
+  top: 67px;
+  left: 300px;
+}
+
+.element-light .overlap-5 {
+  position: absolute;
+  width: 1210px;
+  height: 543px;
+  top: 0;
+  left: 0;
+}
+
+.element-light .image-4 {
+  position: absolute;
+  width: 774px;
+  height: 481px;
+  top: 62px;
+  left: 436px;
+}
+
+.element-light .heading-we-are {
+  position: absolute;
+  width: 558px;
+  height: 144px;
+  top: 162px;
+  left: 0;
+  font-family: var(--vivekkrishnan-com-semantic-heading-2-font-family);
+  font-weight: var(--vivekkrishnan-com-semantic-heading-2-font-weight);
+  color: var(--vivekkrishnancomjon);
+  font-size: var(--vivekkrishnan-com-semantic-heading-2-font-size);
+  letter-spacing: var(--vivekkrishnan-com-semantic-heading-2-letter-spacing);
+  line-height: var(--vivekkrishnan-com-semantic-heading-2-line-height);
+  font-style: var(--vivekkrishnan-com-semantic-heading-2-font-style);
+}
+
+.element-light .image-5 {
+  position: absolute;
+  width: 124px;
+  height: 124px;
+  top: 0;
+  left: 1076px;
+}
+
+.element-light .link-4 {
+  position: absolute;
+  width: 137px;
+  height: 15px;
+  top: 528px;
+  left: 0;
+}
+
+.element-light .VIEW-PORTFOLIO-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 137px;
+  align-items: center;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .paragraph-2 {
+  display: flex;
+  flex-direction: column;
+  width: 388px;
+  align-items: flex-start;
+  gap: 22px;
+  position: absolute;
+  top: 341px;
+  left: 0;
+}
+
+.element-light .your-wedding-day-is {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomjon);
+  font-size: 11px;
+  letter-spacing: 1.10px;
+  line-height: 22px;
+}
+
+.element-light .our-team-is {
+  position: relative;
+  width: fit-content;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomjon);
+  font-size: 11px;
+  letter-spacing: 1.10px;
+  line-height: 22px;
+}
+
+.element-light .component-16 {
+  position: absolute;
+  width: 1921px;
+  height: 1px;
+  top: 1px;
+  left: -361px;
+}
+
+.element-light .youtube-video-player-wrapper {
+  width: 259px;
+  top: 265px;
+  left: -360px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  background-color: var(--vivekkrishnancomblack);
+}
+
+.element-light .overlap-group-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 458px;
+  background-color: var(--vivekkrishnancomblack);
+}
+
+.element-light .overlap-group-5 {
+  position: relative;
+  width: 259px;
+  height: 458px;
+}
+
+.element-light .image-6 {
+  position: absolute;
+  width: 259px;
+  height: 99px;
+  top: 0;
+  left: 0;
+}
+
+.element-light .component-17 {
+  width: 85px;
+  height: 42px;
+  padding: 11px 0px;
+  top: 411px;
+  left: 158px;
+  opacity: 0.9;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .alert-2 {
+  display: flex;
+  flex-direction: column;
+  width: 259px;
+  height: 458px;
+  align-items: flex-start;
+  padding: 0px 19.44px 0px 19.42px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--vivekkrishnancommine-shaft);
+}
+
+.element-light .container-17 {
+  display: flex;
+  max-width: 220.15px;
+  min-height: 264px;
+  align-items: center;
+  justify-content: center;
+  padding: 194px 0px 0px;
+  position: relative;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.element-light .container-18 {
+  display: flex;
+  flex-direction: column;
+  width: 32px;
+  height: 32px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.element-light .component-18 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+
+.element-light .margin {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0px 0px 16px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.element-light .container-19 {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 172.14px;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.element-light .sign-in-to-confirm {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-roboto-medium-font-family);
+  font-weight: var(--vivekkrishnan-com-roboto-medium-font-weight);
+  color: var(--vivekkrishnancomgallery);
+  font-size: var(--vivekkrishnan-com-roboto-medium-font-size);
+  letter-spacing: var(--vivekkrishnan-com-roboto-medium-letter-spacing);
+  line-height: var(--vivekkrishnan-com-roboto-medium-line-height);
+  font-style: var(--vivekkrishnan-com-roboto-medium-font-style);
+}
+
+.element-light .container-20 {
+  display: flex;
+  align-items: flex-end;
+  padding: 4px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.element-light .this-helps-protect-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-roboto-regular-font-family);
+  font-weight: var(--vivekkrishnan-com-roboto-regular-font-weight);
+  color: var(--vivekkrishnancomgallery);
+  font-size: var(--vivekkrishnan-com-roboto-regular-font-size);
+  letter-spacing: var(--vivekkrishnan-com-roboto-regular-letter-spacing);
+  line-height: var(--vivekkrishnan-com-roboto-regular-line-height);
+  font-style: var(--vivekkrishnan-com-roboto-regular-font-style);
+}
+
+.element-light .component-19 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -50.69px;
+}
+
+.element-light .text-2 {
+  font-family: var(--vivekkrishnan-com-roboto-regular-underline-font-family);
+  color: var(--vivekkrishnancomgallery);
+  font-size: var(--vivekkrishnan-com-roboto-regular-underline-font-size);
+  letter-spacing: var(
+    --vivekkrishnan-com-roboto-regular-underline-letter-spacing
+  );
+  line-height: var(--vivekkrishnan-com-roboto-regular-underline-line-height);
+  text-decoration: underline;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-weight: var(--vivekkrishnan-com-roboto-regular-underline-font-weight);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-roboto-regular-underline-font-style);
+}
+
+.element-light .component-20 {
+  width: 24px;
+  height: 24px;
+  top: 426px;
+  left: 227px;
+  opacity: 0.7;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .container-21 {
+  display: flex;
+  width: 235px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  position: absolute;
+  top: 0;
+  left: 12px;
+}
+
+.element-light .container-22 {
+  display: flex;
+  flex-direction: column;
+  max-width: 237px;
+  align-items: flex-start;
+  padding: 21px 0px 0px 50px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.element-light .container-23 {
+  position: absolute;
+  width: 1920px;
+  height: 550px;
+  top: 5372px;
+  left: 0;
+}
+
+.element-light .background-10 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 550px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: var(--vivekkrishnancomtallow);
+}
+
+.element-light .container-24 {
+  position: absolute;
+  width: 1920px;
+  height: 550px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  opacity: 0.15;
+}
+
+.element-light .wedding-film-for-2 {
+  position: relative;
+  height: 1080px;
+  top: -128px;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/wedding-film-for-homepage-mp4-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element-light .ready-to-immortalize-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 415px;
+  align-items: center;
+  position: absolute;
+  top: 149px;
+  left: 393px;
+}
+
+.element-light .ready-to-immortalize {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-semantic-heading-2-font-family);
+  font-weight: var(--vivekkrishnan-com-semantic-heading-2-font-weight);
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: var(--vivekkrishnan-com-semantic-heading-2-font-size);
+  text-align: center;
+  letter-spacing: var(--vivekkrishnan-com-semantic-heading-2-letter-spacing);
+  line-height: var(--vivekkrishnan-com-semantic-heading-2-line-height);
+  font-style: var(--vivekkrishnan-com-semantic-heading-2-font-style);
+}
+
+.element-light .reach-out-to-us-now-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 308px;
+  align-items: center;
+  padding: 0px 0px 1.15px;
+  position: absolute;
+  top: 279px;
+  left: 446px;
+}
+
+.element-light .reach-out-to-us-now {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 2.20px;
+  line-height: 18.7px;
+}
+
+.element-light .component-21 {
+  width: 32px;
+  height: 32px;
+  top: 345px;
+  left: 585px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .container-25 {
+  position: absolute;
+  width: 1920px;
+  height: 550px;
+  top: 5922px;
+  left: 0;
+}
+
+.element-light .overlap-group-6 {
+  position: absolute;
+  width: 1921px;
+  height: 155px;
+  top: -78px;
+  left: -361px;
+}
+
+.element-light .container-26 {
+  display: flex;
+  flex-direction: column;
+  width: 105px;
+  height: 134px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 11px;
+  left: 908px;
+  border-radius: 59.75px;
+  overflow: hidden;
+}
+
+.element-light .background-11 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-color: var(--vivekkrishnancomtallow);
+  border-radius: 59.75px;
+}
+
+.element-light .image-7 {
+  position: absolute;
+  width: 192px;
+  height: 155px;
+  top: 0;
+  left: 865px;
+}
+
+.element-light .component-22 {
+  position: absolute;
+  width: 909px;
+  height: 1px;
+  top: 77px;
+  left: 1012px;
+}
+
+.element-light .component-23 {
+  position: absolute;
+  width: 908px;
+  height: 1px;
+  top: 77px;
+  left: 0;
+}
+
+.element-light .component-24 {
+  width: 17px;
+  height: 17px;
+  top: 435px;
+  left: 999px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .component-25 {
+  width: 17px;
+  height: 17px;
+  top: 380px;
+  left: 999px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .component-26 {
+  width: 17px;
+  height: 17px;
+  top: 324px;
+  left: 999px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .component-27 {
+  width: 17px;
+  height: 17px;
+  top: 269px;
+  left: 999px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .image-8 {
+  position: absolute;
+  width: 184px;
+  height: 183px;
+  top: 269px;
+  left: 795px;
+}
+
+.element-light .image-9 {
+  position: absolute;
+  width: 184px;
+  height: 183px;
+  top: 269px;
+  left: 604px;
+}
+
+.element-light .image-10 {
+  position: absolute;
+  width: 184px;
+  height: 183px;
+  top: 269px;
+  left: 413px;
+}
+
+.element-light .overlap-6 {
+  position: absolute;
+  width: 218px;
+  height: 189px;
+  top: 264px;
+  left: 188px;
+}
+
+.element-light .image-11 {
+  position: absolute;
+  width: 184px;
+  height: 183px;
+  top: 6px;
+  left: 34px;
+}
+
+.element-light .nav-3 {
+  display: flex;
+  flex-direction: column;
+  width: 189px;
+  align-items: center;
+  position: absolute;
+  top: 88px;
+  left: -88px;
+  transform: rotate(-90deg);
+}
+
+.element-light .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: 8px;
+  text-align: center;
+  letter-spacing: 1.60px;
+  line-height: 13.6px;
+  white-space: nowrap;
+}
+
+.element-light .documenting-the-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 567px;
+  align-items: center;
+  position: absolute;
+  top: 133px;
+  left: 317px;
+}
+
+.element-light .documenting-the {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: 19.2px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27.6px;
+}
+
+.element-light .link-5 {
+  position: absolute;
+  width: 102px;
+  height: 12px;
+  top: 235px;
+  left: 877px;
+}
+
+.element-light .contact-us-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 102px;
+  align-items: center;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .link-6 {
+  position: absolute;
+  width: 84px;
+  height: 12px;
+  top: 235px;
+  left: 761px;
+}
+
+.element-light .nav-4 {
+  display: flex;
+  flex-direction: column;
+  width: 84px;
+  align-items: center;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .link-7 {
+  position: absolute;
+  width: 71px;
+  height: 12px;
+  top: 235px;
+  left: 546px;
+}
+
+.element-light .nav-5 {
+  display: flex;
+  flex-direction: column;
+  width: 71px;
+  align-items: center;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .link-8 {
+  position: absolute;
+  width: 80px;
+  height: 12px;
+  top: 235px;
+  left: 418px;
+}
+
+.element-light .portfolio-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 80px;
+  align-items: center;
+  padding: 0px 0px 0px 7.83px;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .portfolio {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-left: -6.91px;
+  margin-right: -6.91px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 2.20px;
+  line-height: 18.7px;
+  white-space: nowrap;
+}
+
+.element-light .link-9 {
+  position: absolute;
+  width: 53px;
+  height: 11px;
+  top: 235px;
+  left: 318px;
+}
+
+.element-light .nav-6 {
+  display: flex;
+  flex-direction: column;
+  width: 53px;
+  align-items: center;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .link-10 {
+  position: absolute;
+  width: 48px;
+  height: 11px;
+  top: 235px;
+  left: 222px;
+}
+
+.element-light .home-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 48px;
+  align-items: center;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .international-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 746px;
+  align-items: center;
+  position: absolute;
+  top: 484px;
+  left: 227px;
+}
+
+.element-light .international {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-semantic-heading-2-title-font-family);
+  font-weight: var(--vivekkrishnan-com-semantic-heading-2-title-font-weight);
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: var(--vivekkrishnan-com-semantic-heading-2-title-font-size);
+  text-align: center;
+  letter-spacing: var(
+    --vivekkrishnan-com-semantic-heading-2-title-letter-spacing
+  );
+  line-height: var(--vivekkrishnan-com-semantic-heading-2-title-line-height);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-semantic-heading-2-title-font-style);
+}
+
+.element-light .link-11 {
+  position: absolute;
+  width: 49px;
+  height: 12px;
+  top: 235px;
+  left: 665px;
+}
+
+.element-light .nav-7 {
+  display: flex;
+  flex-direction: column;
+  width: 49px;
+  align-items: center;
+  position: relative;
+  top: -1px;
+}
+
+.element-light .link-12 {
+  position: absolute;
+  width: 89px;
+  height: 14px;
+  top: 351px;
+  left: 1499px;
+  transform: rotate(-90deg);
+}
+
+.element-light .nav-8 {
+  display: flex;
+  flex-direction: column;
+  width: 89px;
+  align-items: center;
+  position: relative;
+}
+
+.element-light .link-13 {
+  display: flex;
+  flex-direction: column;
+  width: 17px;
+  height: 17px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 297px;
+  left: 1533px;
+  transform: rotate(-90deg);
+}
+
+.element-light .component-28 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  transform: rotate(90deg);
+}
+
+.element-light .container-27 {
+  position: absolute;
+  width: 1920px;
+  height: 50px;
+  top: 6472px;
+  left: 0;
+}
+
+.element-light .background-12 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: var(--vivekkrishnancomtallow);
+}
+
+.element-light .nav-9 {
+  display: flex;
+  width: 444px;
+  align-items: flex-start;
+  position: absolute;
+  top: 16px;
+  left: -310px;
+}
+
+.element-light .COPYRIGHT-VIVEK {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-comfortaa-regular-font-family);
+  font-weight: var(--vivekkrishnan-com-comfortaa-regular-font-weight);
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: var(--vivekkrishnan-com-comfortaa-regular-font-size);
+  letter-spacing: var(--vivekkrishnan-com-comfortaa-regular-letter-spacing);
+  line-height: var(--vivekkrishnan-com-comfortaa-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-comfortaa-regular-font-style);
+}
+
+.element-light .component-29 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.element-light .text-3 {
+  font-family: var(--vivekkrishnan-com-comfortaa-regular-underline-font-family);
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: var(--vivekkrishnan-com-comfortaa-regular-underline-font-size);
+  letter-spacing: var(
+    --vivekkrishnan-com-comfortaa-regular-underline-letter-spacing
+  );
+  line-height: var(--vivekkrishnan-com-comfortaa-regular-underline-line-height);
+  text-decoration: underline;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-weight: var(--vivekkrishnan-com-comfortaa-regular-underline-font-weight);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-comfortaa-regular-underline-font-style);
+}
+
+.element-light .component-30 {
+  position: absolute;
+  width: 1821px;
+  height: 1px;
+  top: 0;
+  left: -311px;
+}
+
+.element-light .link-14 {
+  position: absolute;
+  width: 199px;
+  height: 14px;
+  top: 17px;
+  left: 1311px;
+}
+
+.element-light .nav-10 {
+  display: flex;
+  flex-direction: column;
+  width: 199px;
+  align-items: flex-end;
+  position: relative;
+}
+
+.element-light .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-comfortaa-regular-font-family);
+  font-weight: var(--vivekkrishnan-com-comfortaa-regular-font-weight);
+  color: var(--vivekkrishnancomdawn-pink);
+  font-size: var(--vivekkrishnan-com-comfortaa-regular-font-size);
+  text-align: right;
+  letter-spacing: var(--vivekkrishnan-com-comfortaa-regular-letter-spacing);
+  line-height: var(--vivekkrishnan-com-comfortaa-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-comfortaa-regular-font-style);
+}
+
+.element-light .container-28 {
+  position: absolute;
+  width: 1920px;
+  height: 1200px;
+  top: 0;
+  left: 0;
+}
+
+.element-light .background-13 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 1200px;
+  align-items: center;
+  padding: 165px 0px;
+  position: relative;
+  background-color: var(--vivekkrishnancomdawn-pink);
+}
+
+.element-light .div-2 {
+  position: absolute;
+  width: 1920px;
+  height: 1920px;
+  top: 120px;
+  left: 0;
+  opacity: 0.08;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/vivekkrishnanphotography-293-websize-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element-light .container-29 {
+  position: relative;
+  width: 1200px;
+  max-height: 80000px;
+  height: 870px;
+}
+
+.element-light .overlap-7 {
+  position: absolute;
+  width: 1060px;
+  height: 564px;
+  top: 276px;
+  left: 70px;
+}
+
+.element-light .overlap-group-7 {
+  position: absolute;
+  width: 1060px;
+  height: 555px;
+  top: 0;
+  left: 0;
+}
+
+.element-light .container-30 {
+  display: flex;
+  flex-direction: column;
+  width: 1060px;
+  height: 521px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.element-light .background-14 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-color: var(--vivekkrishnancomwhite);
+}
+
+.element-light .container-31 {
+  position: absolute;
+  width: 1003px;
+  height: 490px;
+  top: 16px;
+  left: 16px;
+}
+
+.element-light .nav-11 {
+  display: flex;
+  flex-direction: column;
+  width: 31px;
+  align-items: flex-end;
+  position: absolute;
+  top: 541px;
+  left: 1029px;
+}
+
+.element-light .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 400;
+  color: var(--vivekkrishnancomjon);
+  font-size: 8px;
+  text-align: right;
+  letter-spacing: 1.60px;
+  line-height: 13.6px;
+  white-space: nowrap;
+}
+
+.element-light .DESTINATION-WEDDING-wrapper {
+  width: 413px;
+  position: absolute;
+  top: 252px;
+  left: 834px;
+  transform: rotate(-90deg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.element-light .DESTINATION-WEDDING {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-semantic-heading-1-upper-font-family);
+  font-weight: var(--vivekkrishnan-com-semantic-heading-1-upper-font-weight);
+  color: var(--vivekkrishnancomtallow);
+  font-size: var(--vivekkrishnan-com-semantic-heading-1-upper-font-size);
+  text-align: center;
+  letter-spacing: var(
+    --vivekkrishnan-com-semantic-heading-1-upper-letter-spacing
+  );
+  line-height: var(--vivekkrishnan-com-semantic-heading-1-upper-line-height);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-semantic-heading-1-upper-font-style);
+}
+
+.element-light .component-31 {
+  position: absolute;
+  width: 2px;
+  height: 76px;
+  top: 16px;
+  left: 1038px;
+}
+
+.element-light .component-32 {
+  position: absolute;
+  width: 2px;
+  height: 76px;
+  top: 468px;
+  left: 1038px;
+}
+
+.element-light .heading-unscripted {
+  position: absolute;
+  width: 100px;
+  height: 35px;
+  top: 529px;
+  left: 0;
+  font-family: var(--vivekkrishnan-com-semantic-heading-3-font-family);
+  font-weight: var(--vivekkrishnan-com-semantic-heading-3-font-weight);
+  color: var(--vivekkrishnancomjon);
+  font-size: var(--vivekkrishnan-com-semantic-heading-3-font-size);
+  letter-spacing: var(--vivekkrishnan-com-semantic-heading-3-letter-spacing);
+  line-height: var(--vivekkrishnan-com-semantic-heading-3-line-height);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-semantic-heading-3-font-style);
+}
+
+.element-light .PREV-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 43px;
+  align-items: flex-end;
+  position: absolute;
+  top: 541px;
+  left: 985px;
+}
+
+.element-light .frame {
+  display: inline-flex;
+  height: 143px;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 72px;
+  left: 437px;
+  overflow: hidden;
+}
+
+.element-light .image-12 {
+  position: relative;
+  width: 352px;
+  height: 478px;
+  margin-top: -177.50px;
+  margin-bottom: -177.50px;
+}
+
+.element-light .frame-2 {
+  position: absolute;
+  width: 147px;
+  height: 144px;
+  top: -72px;
+  left: 549px;
+  background: url(https://c.animaapp.com/mdc382cdmBoqwB/img/frame-8.png) 50% 50%
+    / cover;
+}
+
+.element-light .container-32 {
+  position: absolute;
+  width: 1920px;
+  height: 70px;
+  top: 1200px;
+  left: 0;
+  background-color: var(--vivekkrishnancomdawn-pink);
+}
+
+.element-light .container-33 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 70px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.element-light .overlap-8 {
+  position: absolute;
+  width: 1922px;
+  height: 100px;
+  top: 9px;
+  left: -361px;
+}
+
+.element-light .overlap-group-8 {
+  position: absolute;
+  width: 1922px;
+  height: 100px;
+  top: 0;
+  left: 0;
+}
+
+.element-light .container-34 {
+  display: flex;
+  flex-direction: column;
+  width: 81px;
+  height: 100px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 921px;
+  border-radius: 45.25px;
+  overflow: hidden;
+}
+
+.element-light .background-15 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-color: var(--vivekkrishnancomdawn-pink);
+  border-radius: 45.25px;
+}
+
+.element-light .component-33 {
+  position: absolute;
+  width: 1921px;
+  height: 1px;
+  top: 1px;
+  left: 0;
+}
+
+.element-light .UNSCRIPTED-MOMENTS-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  align-items: center;
+  position: absolute;
+  top: 10px;
+  left: 1px;
+}
+
+.element-light .UNSCRIPTED-MOMENTS {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-semantic-heading-2-upper-font-family);
+  font-weight: var(--vivekkrishnan-com-semantic-heading-2-upper-font-weight);
+  color: var(--vivekkrishnancomtallow-80);
+  font-size: var(--vivekkrishnan-com-semantic-heading-2-upper-font-size);
+  text-align: center;
+  letter-spacing: var(
+    --vivekkrishnan-com-semantic-heading-2-upper-letter-spacing
+  );
+  line-height: var(--vivekkrishnan-com-semantic-heading-2-upper-line-height);
+  font-style: var(--vivekkrishnan-com-semantic-heading-2-upper-font-style);
+}
+
+.element-light .component-34 {
+  position: absolute;
+  width: 2px;
+  height: 98px;
+  top: 2px;
+  left: 146px;
+}
+
+.element-light .component-35 {
+  position: absolute;
+  width: 2px;
+  height: 98px;
+  top: 2px;
+  left: 1772px;
+}
+
+.element-light .component-36 {
+  width: 118px;
+  height: 86px;
+  top: 8px;
+  left: 902px;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-35.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .component-37 {
+  position: absolute;
+  width: 930px;
+  height: 1px;
+  top: 50px;
+  left: 0;
+}
+
+.element-light .component-38 {
+  position: absolute;
+  width: 930px;
+  height: 2px;
+  top: 50px;
+  left: 992px;
+}
+
+.element-light .link-15 {
+  position: absolute;
+  width: 96px;
+  height: 16px;
+  top: 42px;
+  left: 361px;
+}
+
+.element-light .heading-6 {
+  width: 96px;
+  padding: 0px 0px 14.5px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.element-light .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--vivekkrishnan-com-semantic-heading-3-upper-font-family);
+  font-weight: var(--vivekkrishnan-com-semantic-heading-3-upper-font-weight);
+  color: transparent;
+  font-size: var(--vivekkrishnan-com-semantic-heading-3-upper-font-size);
+  text-align: center;
+  letter-spacing: var(
+    --vivekkrishnan-com-semantic-heading-3-upper-letter-spacing
+  );
+  line-height: var(--vivekkrishnan-com-semantic-heading-3-upper-line-height);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-semantic-heading-3-upper-font-style);
+}
+
+.element-light .link-16 {
+  position: absolute;
+  width: 97px;
+  height: 15px;
+  top: 19px;
+  left: 1204px;
+}
+
+.element-light .component-39 {
+  width: 97px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.element-light .text-4 {
+  font-family: var(--vivekkrishnan-com-comfortaa-regular-upper-font-family);
+  color: var(--vivekkrishnancomjon);
+  font-size: var(--vivekkrishnan-com-comfortaa-regular-upper-font-size);
+  text-align: center;
+  letter-spacing: var(
+    --vivekkrishnan-com-comfortaa-regular-upper-letter-spacing
+  );
+  line-height: var(--vivekkrishnan-com-comfortaa-regular-upper-line-height);
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-weight: var(--vivekkrishnan-com-comfortaa-regular-upper-font-weight);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-comfortaa-regular-upper-font-style);
+}
+
+.element-light .link-17 {
+  position: absolute;
+  width: 76px;
+  height: 15px;
+  top: 19px;
+  left: 1098px;
+}
+
+.element-light .component-40 {
+  width: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.element-light .link-18 {
+  position: absolute;
+  width: 47px;
+  height: 15px;
+  top: 19px;
+  left: 1020px;
+}
+
+.element-light .component-41 {
+  width: 47px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.element-light .component-42 {
+  width: 1px;
+  height: 1px;
+  top: 0;
+  left: 378px;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-34.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .link-19 {
+  position: absolute;
+  width: 64px;
+  height: 15px;
+  top: 19px;
+  left: 838px;
+}
+
+.element-light .component-43 {
+  width: 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.element-light .link-20 {
+  position: absolute;
+  width: 77px;
+  height: 15px;
+  top: 19px;
+  left: 735px;
+}
+
+.element-light .component-44 {
+  width: 77px;
+  padding: 0px 0px 0px 2.84px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.element-light .text-5 {
+  margin-left: -1.92px;
+  margin-right: -1.92px;
+  font-family: var(--vivekkrishnan-com-comfortaa-regular-upper-font-family);
+  color: var(--vivekkrishnancomjon);
+  font-size: var(--vivekkrishnan-com-comfortaa-regular-upper-font-size);
+  text-align: center;
+  letter-spacing: var(
+    --vivekkrishnan-com-comfortaa-regular-upper-letter-spacing
+  );
+  line-height: var(--vivekkrishnan-com-comfortaa-regular-upper-line-height);
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-weight: var(--vivekkrishnan-com-comfortaa-regular-upper-font-weight);
+  white-space: nowrap;
+  font-style: var(--vivekkrishnan-com-comfortaa-regular-upper-font-style);
+}
+
+.element-light .link-21 {
+  position: absolute;
+  width: 48px;
+  height: 15px;
+  top: 19px;
+  left: 660px;
+}
+
+.element-light .component-45 {
+  display: flex;
+  flex-direction: column;
+  width: 48px;
+  align-items: center;
+  position: relative;
+}
+
+.element-light .component-46 {
+  width: 17px;
+  height: 17px;
+  top: 18px;
+  left: 1883px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .component-47 {
+  width: 17px;
+  height: 17px;
+  top: 18px;
+  left: 1853px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .component-48 {
+  width: 17px;
+  height: 17px;
+  top: 18px;
+  left: 1822px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .component-49 {
+  width: 17px;
+  height: 17px;
+  top: 18px;
+  left: 1792px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+}
+
+.element-light .link-22 {
+  position: absolute;
+  width: 48px;
+  height: 15px;
+  top: 19px;
+  left: 586px;
+}
+
+.element-light .component-50 {
+  width: 10px;
+  height: 10px;
+  top: 22px;
+  left: 1303px;
+  background-image: url(https://c.animaapp.com/mdc382cdmBoqwB/img/image-36.png);
+  position: absolute;
+  background-size: 100% 100%;
+}
+
+.element-light .link-23 {
+  position: absolute;
+  width: 96px;
+  height: 16px;
+  top: 291px;
+  left: 623px;
+}
+
+.element-light .iframe {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.element-light .html {
+  height: 8px;
+  background-color: var(--vivekkrishnancomwhite);
+}
